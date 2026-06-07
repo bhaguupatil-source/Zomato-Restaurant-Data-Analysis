@@ -89,7 +89,7 @@ using Python. This includes visualizing key metrics and trends such as:
 🚀 How to Run
   1. Clone this repository:
      
-         https://github.com/Vaishnavi-76304/Zomato-Restaurant-Data-Analysis.git
+         https://github.com/bhaguupatil-source/Zomato-Restaurant-Data-Analysis.git
      
   3. Open the Jupyter Notebook or upload it to Google Colab.
   4. Run the cells sequentially to see the visualizations and insights.
